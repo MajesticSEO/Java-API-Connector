@@ -26,4 +26,4 @@ else
 }
 ```
 
-A full list of available commands can be found within the [developer documentation](http://dev.majestic.com/api/commands/).
+A full list of available commands can be found within the [developer documentation](http://developer-support.majestic.com/api/commands/).
