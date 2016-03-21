@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Result Code="FailedRequestViaAPI" ErrorMessage="The command 'Error' is not in the list of supported commands." FullError="This is the full error!"></Result>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Result Code="OK" ErrorMessage="" FullError="">
+    <GlobalVars FirstBackLinkDate="2012-05-01" IndexBuildDate="2015-11-20 21:08:49" IndexType="0" MostRecentBackLinkDate="2015-10-21" ServerBuild="2015-10-23 14:17:16" ServerName="DAVE" ServerVersion="1.0.5774.23918" UniqueIndexID="20151120210849-HISTORICAL"/>
+    <DataTables Count="1">
+        <DataTable Name="Results" RowsCount="0" Headers="ItemNum|Item|ResultCode|Status|ExtBackLinks|RefDomains|AnalysisResUnitsCost|ACRank|ItemType|IndexedURLs|GetTopBackLinksAnalysisResUnitsCost|DownloadBacklinksAnalysisResUnitsCost|DownloadRefDomainBacklinksAnalysisResUnitsCost|RefIPs|RefSubNets|RefDomainsEDU|ExtBackLinksEDU|RefDomainsGOV|ExtBackLinksGOV|RefDomainsEDU_Exact|ExtBackLinksEDU_Exact|RefDomainsGOV_Exact|ExtBackLinksGOV_Exact|CrawledFlag|LastCrawlDate|LastCrawlResult|RedirectFlag|FinalRedirectResult|OutDomainsExternal|OutLinksExternal|OutLinksInternal|LastSeen|Title|RedirectTo|CitationFlow|TrustFlow|TrustMetric|TopicalTrustFlow_Topic_0|TopicalTrustFlow_Value_0|TopicalTrustFlow_Topic_1|TopicalTrustFlow_Value_1|TopicalTrustFlow_Topic_2|TopicalTrustFlow_Value_2" MaxTopicsRootDomain="30" MaxTopicsSubDomain="20" MaxTopicsURL="10" TopicsCount="3">
+        </DataTable>
+    </DataTables>
+</Result>
