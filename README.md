@@ -4,7 +4,7 @@ Java Majestic API Connector
 The Java connector targets the 1.5 language specification, and is built using Maven.
 
 ```Java
-APIService api = new APIService("MY_API_KEY", "http://api.majestic.com/api_command");
+APIService api = new APIService("MY_API_KEY", "https://api.majestic.com/api_command");
 
 Map<String, String> parameters = new HashMap<String, String>();
 parameters.put("items", "1");
@@ -26,4 +26,4 @@ else
 }
 ```
 
-A full list of available commands can be found within the [developer documentation](http://developer-support.majestic.com/api/commands/).
+A full list of available commands can be found within the [developer documentation](https://developer-support.majestic.com/api/commands/).
