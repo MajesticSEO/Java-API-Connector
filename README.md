@@ -34,7 +34,7 @@ There are a few examples of using the API-Connector by the Jar, use the followin
 
 * GetIndexItemInfo 
   * The GetIndexItemInfo command provides data on the number of backlinks to any web page or site, linking domains and the main topics for that page or web site
-* GetBackLinkData 
+* GetTopBackLinks 
   * GetBacklinkData will return rows of data with information about all the pages linking to a given URL or domain
   
 The follwoing code is from GetIndexItemInfo.java, it will shows how the API-Connector can be used.
