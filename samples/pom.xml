@@ -38,7 +38,7 @@
         <dependency>
             <groupId>com.majesticseo.external.rpc</groupId>
             <artifactId>majesticseo-external-rpc</artifactId>
-            <version>0.9.5</version>
+            <version>0.9.6-SNAPSHOT</version>
             <type>jar</type>
         </dependency>
     </dependencies>
